@@ -32,7 +32,8 @@ Sports are both fun to play and fun to watch! Below are some sports that I have 
 > “Live as if you were to die tomorrow. Learn as if you were to live forever.” - _Mahatma Gandhi_\
 > “Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.” - _Martin Luther King Jr._
 
-## Code Fencing: Area of A Simple Polygon
+## Algorithms: Area of A Simple Polygon
+According to [Wikipedia](https://en.wikipedia.org/wiki/Simple_polygon),mathematicians typically use "polygon" to refer only to the shape made up by the line segments, not the enclosed region, however some may use "polygon" to refer to a plane figure that is bounded by a closed path, composed of a finite sequence of straight line segments (i.e., by a closed polygonal chain). According to the definition in use, this boundary may or may not form part of the polygon itself. Below is a computational formula for [the area of a simple polygon](https://cp-algorithms.com/geometry/area-of-simple-polygon.html):
 ```
 double area(const vector<point>& fig) {
     double res = 0;
