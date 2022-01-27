@@ -29,5 +29,5 @@ Sports are both fun to play and fun to watch! Below are some sports that I have 
 | Volleyball | Gym | $170 |
 
 ## Inspirational Quotes
-> “Live as if you were to die tomorrow. Learn as if you were to live forever.” - _Mahatma Gandhi_
+> “Live as if you were to die tomorrow. Learn as if you were to live forever.” - _Mahatma Gandhi_\
 > “Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.” - _Martin Luther King Jr._
