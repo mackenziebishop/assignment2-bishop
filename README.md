@@ -18,3 +18,13 @@ The closest airport to Casa Grande is Kansas City International Airport. Directi
 
 ## About Me
 To learn more [about me](https://github.com/mackenziebishop/assignment2-bishop/blob/main/AboutMe.md), view the AboutMe.md file above!
+---
+## Sports + Recommendations
+Sports are both fun to play and fun to watch! Below are some sports that I have played/watched that I reccomend you try out for yourself!
+
+| Name | Location | Cost  |
+| ----------------------- |
+| Basketball | Park | $74 | 
+| Softball | Park | $150  |
+| Volleyball | Gym | $170 |
+
