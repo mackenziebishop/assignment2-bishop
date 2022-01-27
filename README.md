@@ -31,3 +31,16 @@ Sports are both fun to play and fun to watch! Below are some sports that I have 
 ## Inspirational Quotes
 > “Live as if you were to die tomorrow. Learn as if you were to live forever.” - _Mahatma Gandhi_\
 > “Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.” - _Martin Luther King Jr._
+
+## Code Fencing: Area of A Simple Polygon
+```
+double area(const vector<point>& fig) {
+    double res = 0;
+    for (unsigned i = 0; i < fig.size(); i++) {
+        point p = i ? fig[i - 1] : fig.back();
+        point q = fig[i];
+        res += (p.x - q.x) * (p.y + q.y);
+    }
+    return fabs(res) / 2;
+}
+```
