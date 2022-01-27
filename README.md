@@ -17,4 +17,4 @@ The closest airport to Casa Grande is Kansas City International Airport. Directi
 - Pollo Casa Grande
 
 ## About Me
-To learn more [about me](https://github.com/mackenziebishop/assignment2-bishop/blob/main/AboutMe.md)
+To learn more [about me](https://github.com/mackenziebishop/assignment2-bishop/blob/main/AboutMe.md), view the AboutMe.md file above!
